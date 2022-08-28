@@ -1,0 +1,6 @@
+name: EnderDragonTamer
+version: '${project.version}'
+main: me.psk1103.enderdragontamer.EnderDragonTamer
+api-version: 1.15
+author: PSK1103
+description: prevent ender dragon griefing and stop end pillars from respawning
